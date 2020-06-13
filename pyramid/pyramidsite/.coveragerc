@@ -1,0 +1,3 @@
+[run]
+source = pyramidsite
+omit = pyramidsite/test*
